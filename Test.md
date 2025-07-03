@@ -1,6 +1,8 @@
 # Test
-
-## Hi
-## Bye
-
-How to commit
+---
+## command
+```python
+git add .
+git commit -m "your commit message"
+git push origin main
+```
